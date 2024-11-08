@@ -16,3 +16,9 @@ const mult=(a,b)=>{
     return a*b;
 }
 
+function copy(a){
+    return a;
+}
+function hello(){
+    return "hello";
+}
