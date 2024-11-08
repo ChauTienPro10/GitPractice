@@ -7,3 +7,7 @@ console.log(c);
 const add=()=>{
     return a+b;
 }
+
+const sub=()=>{
+    return a-b;
+}
