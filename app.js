@@ -11,3 +11,11 @@ const add=()=>{
 const sub=()=>{
     return a-b;
 }
+
+const mult=()=>{
+    return a*b;
+}
+
+const devive=()=>{
+    return a/b;
+}
