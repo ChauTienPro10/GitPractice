@@ -12,10 +12,7 @@ const sub=()=>{
     return a-b;
 }
 
-const mult=()=>{
+const mult=(a,b)=>{
     return a*b;
 }
 
-const devive=()=>{
-    return a/b;
-}
